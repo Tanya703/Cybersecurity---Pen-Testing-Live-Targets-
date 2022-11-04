@@ -22,7 +22,7 @@ Vulnerability #1: SQL Injection (SQLi)
 
 Description:
 
-<img src="Blue Taget 1 SQL Injection.gif">
+<img src="Blue Taget 1 SQL Injection.gif" width="800">
 
 
 ## Green
@@ -31,7 +31,7 @@ Vulnerability #1: Cross-Site Scripting (XSS)
 
 Description:
 
-<img src="Green Taget 1 Cross-Site Scripting.gif">
+<img src="Green Taget 1 Cross-Site Scripting.gif" width="800">
 
 
 ## Red
@@ -40,7 +40,7 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
 Description:
 
-<img src="Red Taget 1 IDOR.gif">
+<img src="Red Taget 1 IDOR.gif" width="800">
 
 
 ## Notes
