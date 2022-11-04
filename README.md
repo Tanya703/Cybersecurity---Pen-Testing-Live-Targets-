@@ -29,7 +29,7 @@ Description: Used single qoute to test if SQL injection can be performed. After 
 
 Vulnerability #1: Cross-Site Scripting (XSS)
 
-Description: In the feedback form I put <script>alert('Tanya found the XSS!');</script>. When logged in to check feedback the alert poped up.
+Description: In the feedback form I put <script>alert('Tanya found the XSS!');</script>. When logged in to check feedback the alert popped up.
 
 5. Cross-Site Request Forgery: One of the three s
 
@@ -47,4 +47,5 @@ Description: I found an unfilled space under MA state under find a saleperson ta
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Describe any challenges encountered while doing the work.
+It took me some time to go over SQL injection topic again to understand and complete one of the challenges
