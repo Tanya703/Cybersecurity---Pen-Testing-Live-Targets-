@@ -45,7 +45,3 @@ Description: I found an unfilled space under MA state under find a saleperson ta
 <img src="Red Taget 1 IDOR.gif" width="800">
 
 
-## Notes
-
-Describe any challenges encountered while doing the work.
-It took me some time to go over SQL injection topic again to understand and complete one of the challenges
